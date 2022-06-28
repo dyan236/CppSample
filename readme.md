@@ -1,0 +1,1 @@
+g++ main.cpp -o main && "/Users/darren/Desktop/VSCode/workspace/CPP/"main
